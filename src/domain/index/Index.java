@@ -1,7 +1,7 @@
 package domain.index;
 
-import java.util.*;
 import java.io.*;
+import java.util.*;
 
 public class Index {
 
